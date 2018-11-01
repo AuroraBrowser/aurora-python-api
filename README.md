@@ -1,6 +1,7 @@
 # Aurora Python Api
 
-## aws GameLift
+You can use it for communicate with aws gamelift
+
 *Functions*
 
 1. search(alias_id)
