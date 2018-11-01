@@ -1,5 +1,7 @@
 # Aurora Python Api
 
+https://pypi.org/project/auroravr/
+
 You can use it for communicate with aws gamelift
 
 *Functions*
