@@ -1,5 +1,6 @@
-# Aurora Gamelift Api
+# Aurora Python Api
 
+## aws GameLift
 *Functions*
 
 1. search(alias_id)
