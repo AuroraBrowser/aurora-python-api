@@ -1,4 +1,4 @@
-# Auroravr Gamelift Api
+# Aurora Gamelift Api
 
 *Functions*
 
